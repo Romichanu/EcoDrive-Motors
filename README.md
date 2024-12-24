@@ -23,17 +23,17 @@ Version Control: Git (for tracking changes)
 
 ## Here are the brief recommended analyses
 
- 1.Total EV registrations per county:
+1.Total EV registrations per county:
 
- 2. Top 5 EV models:
+2 Top 5 EV models:
 
- 3 Average range (BEV vs. PHEV):
+3. Average range (BEV vs. PHEV):
 
- 4 Vehicles eligible for incentives:
+4. Vehicles eligible for incentives:
 
-  5  EV registrations by model year:
+5 . EV registrations by model year:
 
-  6 Cities with highest EV registrations:
+6 .Cities with highest EV registrations:
 
   7 Utility providers serving most EVs:
 
