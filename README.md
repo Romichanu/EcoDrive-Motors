@@ -21,23 +21,23 @@ IDE: google colab
 
 Version Control: Git (for tracking changes)
 
-## Here are the brief recommended analyses in pointwise format:
+## Here are the brief recommended analyses
 
- Total EV registrations per county:
+ 1.Total EV registrations per county:
 
- Top 5 EV models:
+ 2. Top 5 EV models:
 
-Average range (BEV vs. PHEV):
+ 3 Average range (BEV vs. PHEV):
 
- Vehicles eligible for incentives:
+ 4 Vehicles eligible for incentives:
 
- EV registrations by model year:
+  5  EV registrations by model year:
 
- Cities with highest EV registrations:
+  6 Cities with highest EV registrations:
 
- Utility providers serving most EVs:
+  7 Utility providers serving most EVs:
 
-  5-year EV registration trend:
+   8 Five-year EV registration trend:
 
   ## Conclusion
 
